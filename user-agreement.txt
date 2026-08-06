@@ -1,0 +1,59 @@
+SalaryMan — User Agreement
+
+SalaryMan estimates your earnings from numbers you type in yourself. It is not payroll software, and the amounts it shows are not your actual pay.
+
+Last updated August 6, 2026
+
+1. Acceptance
+
+By using SalaryMan you agree to this agreement. If you do not agree, please do not use the app.
+
+2. What SalaryMan Is
+
+SalaryMan is a personal tool that shows, in real time, roughly how much you have earned so far this month. It works entirely from figures you enter yourself: your monthly pay, your working hours, your fixed costs, and any days you mark as leave.
+
+It is a way of seeing your work in motion. That is all it is.
+
+3. What SalaryMan Is Not
+
+This section matters more than the rest. Please read it.
+
+• SalaryMan is not payroll software. It has no connection to your employer, your HR system, or your bank.
+
+• The amounts shown are estimates calculated from what you typed. They are not your actual pay.
+
+• Your real pay is determined solely by your employer and your employment contract. It will differ from what this app shows, because the app does not account for taxes, social insurance, overtime, allowances, deductions, or rounding.
+
+• SalaryMan does not provide financial, tax, accounting, legal, or employment advice.
+
+• Do not rely on SalaryMan for any decision that matters. Check your payslip.
+
+4. Your Figures
+
+You are responsible for the numbers you enter and for keeping them current. SalaryMan has no way to verify them, and it will faithfully calculate from whatever you give it.
+
+5. License
+
+You are granted a personal, non-exclusive, non-transferable license to use SalaryMan on devices you own or control, for personal, non-commercial purposes.
+
+6. No Warranty
+
+SalaryMan is provided "as is" and "as available", without warranty of any kind, express or implied, including any warranty of accuracy, merchantability, or fitness for a particular purpose.
+
+7. Limitation of Liability
+
+To the maximum extent permitted by applicable law, we are not liable for any loss or damage arising from your use of, or inability to use, SalaryMan — including any decision made in reliance on the figures it displays.
+
+8. Money
+
+SalaryMan does not hold, move, or process money. It contains no purchases and no subscriptions.
+
+9. Changes
+
+This agreement may be updated. The revised version will appear in the app and the date at the top will change. Continuing to use SalaryMan after an update means you accept the revised agreement.
+
+10. Contact
+
+Questions about this agreement: \(contactEmail)
+
+Questions about this document: kijimahikari666@gmail.com
