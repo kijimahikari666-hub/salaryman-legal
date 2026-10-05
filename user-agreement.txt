@@ -1,8 +1,8 @@
 SalaryMan — User Agreement
 
-SalaryMan estimates your earnings from numbers you type in yourself. It is not payroll software, and the amounts it shows are not your actual pay.
+SalaryMan estimates your earnings from numbers you type in yourself. It is not payroll software, and the amounts it shows are not your actual pay. The news summaries and market prices on its Home page are general information, not advice.
 
-Last updated September 12, 2026
+Last updated October 5, 2026
 
 1. Acceptance
 
@@ -12,7 +12,9 @@ By using SalaryMan you agree to this agreement. If you do not agree, please do n
 
 SalaryMan is a personal tool that shows, in real time, roughly how much you have earned so far this month. It works entirely from figures you enter yourself: your monthly pay, your working hours, your fixed costs, and any days you mark as leave.
 
-It is a way of seeing your work in motion. That is all it is.
+It is a way of seeing your work in motion.
+
+Its Home page also shows a short briefing of world news and a board of market prices. Sections 5 and 6 cover those.
 
 3. What SalaryMan Is Not
 
@@ -32,27 +34,45 @@ This section matters more than the rest. Please read it.
 
 You are responsible for the numbers you enter and for keeping them current. SalaryMan has no way to verify them, and it will faithfully calculate from whatever you give it.
 
-5. License
+5. News and Market Information
+
+The World Brief is a short summary of public news. The summaries are written automatically by an AI system from the headlines of the news organisations named under each item. No human editor checks them. They can be incomplete, out of date, or wrong. Follow the link to the original reporting before relying on anything you read there.
+
+Market prices and charts are shown for general information only. They may be delayed, incomplete, or inaccurate, and they may stop being available at any time. They are not suitable for trading.
+
+Nothing in SalaryMan is investment, financial, or trading advice, or a recommendation to buy or sell anything. SalaryMan does not know what you own, and it never relates the news or the markets to your own money.
+
+The names of news organisations, companies, indices, and other marks belong to their respective owners. SalaryMan is not affiliated with, sponsored by, or endorsed by any of them.
+
+We may change, suspend, or remove the news and market features at any time.
+
+6. Third-Party Websites
+
+The links under each news item open the original article on the publisher’s own website, inside the app. Those websites are not ours. Their content, their availability, their terms of use, and their privacy practices are their own responsibility.
+
+Some publishers ask you to register or pay before you can read a full article. Whether you do is entirely between you and that publisher. SalaryMan takes no part in, and receives nothing from, any such arrangement.
+
+7. License
 
 You are granted a personal, non-exclusive, non-transferable license to use SalaryMan on devices you own or control, for personal, non-commercial purposes.
 
-6. No Warranty
+8. No Warranty
 
 SalaryMan is provided "as is" and "as available", without warranty of any kind, express or implied, including any warranty of accuracy, merchantability, or fitness for a particular purpose.
 
-7. Limitation of Liability
+9. Limitation of Liability
 
-To the maximum extent permitted by applicable law, we are not liable for any loss or damage arising from your use of, or inability to use, SalaryMan — including any decision made in reliance on the figures it displays.
+To the maximum extent permitted by applicable law, we are not liable for any loss or damage arising from your use of, or inability to use, SalaryMan — including any decision made in reliance on the figures, news summaries, or market information it displays.
 
-8. Money
+10. Money
 
-SalaryMan does not hold, move, or process money. It contains no purchases and no subscriptions.
+SalaryMan does not hold, move, or process money, and it cannot be used to trade. It contains no purchases and no subscriptions.
 
-9. Changes
+11. Changes
 
 This agreement may be updated. The revised version will appear in the app and the date at the top will change. Continuing to use SalaryMan after an update means you accept the revised agreement.
 
-10. Contact
+12. Contact
 
 Questions about this agreement: \(contactEmail)
 
