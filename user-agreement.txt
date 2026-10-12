@@ -2,7 +2,7 @@ SalaryMan — User Agreement
 
 SalaryMan estimates your earnings from numbers you type in yourself. It is not payroll software, and the amounts it shows are not your actual pay. The news summaries and market prices on its Home page are general information, not advice.
 
-Last updated October 5, 2026
+Last updated October 12, 2026
 
 1. Acceptance
 
@@ -38,7 +38,9 @@ You are responsible for the numbers you enter and for keeping them current. Sala
 
 The World Brief is a short summary of public news. The summaries are written automatically by an AI system from the headlines of the news organisations named under each item. No human editor checks them. They can be incomplete, out of date, or wrong. Follow the link to the original reporting before relying on anything you read there.
 
-Market prices and charts are shown for general information only. They may be delayed, incomplete, or inaccurate, and they may stop being available at any time. They are not suitable for trading.
+Market prices and charts are shown for general information only. They may be delayed, incomplete, or inaccurate, and they may stop being available at any time. They are not suitable for trading. A chart page you share shows the figures as they were when the link was made, not current prices; the page says so.
+
+The reference figures shown for a company (such as its price-to-earnings ratio, net margin, or dividend yield) are reproduced as published by the market-data source, without checking or comment. They are facts about the company as reported, not a judgement about its shares, and SalaryMan does not rate, rank, or recommend any security. Where the app shows what a share price would be at a range of price-to-earnings multiples, that is simple arithmetic on the published earnings per share; the multiples are arbitrary reference points, not forecasts, valuations, or price targets.
 
 Nothing in SalaryMan is investment, financial, or trading advice, or a recommendation to buy or sell anything. SalaryMan does not know what you own, and it never relates the news or the markets to your own money.
 
@@ -51,6 +53,8 @@ We may change, suspend, or remove the news and market features at any time.
 The links under each news item open the original article on the publisher’s own website, inside the app. Those websites are not ours. Their content, their availability, their terms of use, and their privacy practices are their own responsibility.
 
 Some publishers ask you to register or pay before you can read a full article. Whether you do is entirely between you and that publisher. SalaryMan takes no part in, and receives nothing from, any such arrangement.
+
+The Ask AI button opens ChatGPT (a service of OpenAI) or Claude (a service of Anthropic) with the figures from that page typed in as a question. Those services are not ours. What you ask there and what they answer is between you and them; SalaryMan takes no part in it, receives nothing from it, and their answers are not advice from SalaryMan.
 
 7. License
 
